@@ -135,5 +135,5 @@ For the assembly of Leader arms and Follower arms, please refer to the tutorial:
    <img src="./media/assembly/43.jpg" width="400">
 
 7. Assembly fully complete!
-   <img src="./media/alohamini_git.png" >
+   <img src="./media/assembled2.png" >
 
