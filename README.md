@@ -9,7 +9,7 @@ Built for embodied AI research and real-world manipulation. Assemble at home in 
 
 ## Updates
 
-- [2025-11-27] STEP (CAD) files are now available (`/hardware/step/`)
+- [2025-11-27] STEP (CAD) files are now available (`/hardware/mobile_base/step/`)
 - URDF files coming soon
 
 
