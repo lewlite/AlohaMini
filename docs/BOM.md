@@ -44,7 +44,7 @@ On AlohaMini, the Host side consists of a PC workstation and leader arms. VR con
 - OB_Chassis_Wheel_Axle_Connector x3
 - OB_Chassis_Wheel_Guard x3
 - OB_Top_Camera_Back_Cover x2
-- O_Chassis_Dowel_Pin_12_24 x3
+- OB_Chassis_Shaft_Sleeve_12_24 x3
 - O_Chassis_Dowel_Pin_12_37 x3
 - All other files x1
 
