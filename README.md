@@ -37,7 +37,7 @@ Built for embodied AI research and real-world manipulation. Assemble at home in 
 |-----------|---------------|-----|------------------|
 | Servo motors | Feetech STS3215 (12V bus) | 16 | $13.89 |
 | Motor control boards | Waveshare Bus Servo Adapter (A) | 2 | $10.55 |
-| Compute platform | Raspberry Pi 5 (4/8GB) | 1 | $60 |
+| Compute platform | Raspberry Pi 5 (4/8GB) | 1 | $80 |
 | Cameras | 720p USB cameras (2 for arms, 3 for mobile base) | 5 | $20 |
 | Mobility system | Omni wheels | 3 | $36.00 |
 | Battery | 12V Li-ion pack | 2 | $32.99 |
