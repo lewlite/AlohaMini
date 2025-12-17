@@ -113,7 +113,7 @@ For detailed printing instructions, refer to the [SO-ARM100 project README](http
 |------|---------------|-----|----------------|----------|----------------|----------|
 | Servo motor | Feetech / 7.4V 1/147 Gear(STS3215-C046) | 12 | $13.89 | [Alibaba](https://www.alibaba.com/product-detail/Feetech-STS3215-Servos-Feetech-7-4V_1601636218844.html?spm=a2700.micro_product_manager.0.0.5d083e5fucb6WW) | ¥99 | [taobao](https://item.taobao.com/item.htm?id=996544351583&spm=a213gs.v2success.0.0.73c04831naDrHP) |
 | Waveshare Bus Servo Controller | For connecting to the PC | 2 | $13 | [Amazon](https://www.amazon.com/Waveshare-Integrates-Control-Circuit-Supports/dp/B0CTMM4LWK/) | ¥27 | [tmall](https://detail.tmall.com/item.htm?id=738817173460) |
-| Battery | 5V Li-ion pack (5600mAh) | 1 | — | Amazon | ¥30 | [taobao](https://item.taobao.com/item.htm?id=765749120668) |
+| Battery | 5V Li-ion pack (5600mAh, DC 5521 connector) | 1 | — | Amazon | ¥30 | [taobao](https://item.taobao.com/item.htm?id=765749120668) |
 | 1-to-2 DC splitter cable | 70 cm — for powering the arms | 1 | — | Amazon | ¥5 | [taobao](https://item.taobao.com/item.htm?id=594921965049) |
 | USB Type-C cable | For connecting to the PC | 2 | $10 | [Amazon](https://www.amazon.com/Charging-etguuds-Charger-Braided-Compatible/dp/B0B8NWLLW2/?th=1) | ¥20 | [tmall](https://detail.tmall.com/item.htm?id=754024805047) |
 | 3D-printed parts | PLA/PETG/ABS (files in /hardware/arms/stl) | 1 set | — | — | — | — |
