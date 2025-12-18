@@ -6,6 +6,9 @@ AlohaMini is a dual-arm mobile robot with a motorized vertical lift — beautifu
 
 Built for embodied AI research and real-world manipulation. Assemble at home in ~60 minutes, customize every part, and train or deploy with LeRobot.
 
+Note:
+Use ROS only if you need URDF visualization, RViz inspection, or Gazebo simulation.
+
 
 ## Updates
 
